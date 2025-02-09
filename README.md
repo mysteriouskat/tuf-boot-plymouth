@@ -1,19 +1,22 @@
-This is an iFruit boot theme, imspired by GTA5 and MacOS.
+TUF plymouth boot theme 
+-------------------------------------------------------------------
 
-![Alt text](ifruit_boot.png)
+This is a plymouth boot theme with TUF logo like MacOS boot animation
+![TUF logo](tuf-logo.png)
+
 
 Installation
 -------------------------------------------------------------------
 
-Assuming the unzipped ifruit theme folder is located in your download directory.
-Copy the finished theme to /usr/share/plymouth/themes:
+Open a terminal in the folder wherever the downloaded 'tuf-boot' folder is located in your device.
+Copy the theme to /usr/share/plymouth/themes:
 
-`sudo cp -r ~/Downloads/ifruit-main/ifruit /usr/share/plymouth/themes`
+`sudo cp -r ./tuf-boot /usr/share/plymouth/themes`
 
 After copying, get a list of the installed themes with the following command:
 
 `plymouth-set-default-theme --list`
 
-Set it to iFruit theme:
+Set it to tuf-boot theme:
 
-`sudo plymouth-set-default-theme ifruit -R`
+`sudo plymouth-set-default-theme tuf-boot -R`
