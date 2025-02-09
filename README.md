@@ -5,6 +5,9 @@ This is a plymouth boot theme with TUF logo like MacOS boot animation
 
 ![TUF logo](tuf-logo.png)
 
+Preview 
+-------------------------------------------------------------------
+![TUF logo](preview.png)
 
 Installation
 -------------------------------------------------------------------
