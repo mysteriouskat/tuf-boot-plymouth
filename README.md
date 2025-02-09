@@ -3,8 +3,6 @@ TUF plymouth boot theme
 
 This is a plymouth boot theme with TUF logo like MacOS boot animation
 
-<img src="tuf-boot.png" alt="Image" align="left">
-
 ![TUF logo](tuf-logo.png)
 
 
